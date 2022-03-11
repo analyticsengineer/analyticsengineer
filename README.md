@@ -49,4 +49,4 @@
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designegycreatives&repo=github-readme-stats&show_owner)](https://github.com/Designegycreatives/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designegycreatives&repo=github-readme-stats&show_owner&theme=github_dark)](https://github.com/Designegycreatives/github-readme-stats)
