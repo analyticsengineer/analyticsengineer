@@ -1,7 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Designegycreatives&repo=github-readme-stats&theme=github_dark)](
-https://github.com/designegycreatives/designegycreatives)
-
-
 ### Hello :wave:
 ### My Name is Anuoluwapo Balogun
 ### I am a Data Scientist | Data Analyst | Data Engineer
@@ -10,6 +6,7 @@ https://github.com/designegycreatives/designegycreatives)
 **Designegycreatives/Designegycreatives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+ 
 - :computer: My Tech Tool Stacks Are;
 
   **Tableau** | **Power BI** | **Python Programming** | **R Programming** | **Open Office Calc** | **Rapid Miner Studio** | **MongoDB** | **Postgre SQL** | **Microsoft SQL Server** | **Excel**
@@ -46,11 +43,9 @@ https://github.com/designegycreatives/designegycreatives)
 
   **I love Learning**
   
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true&hide=contribs,prs,issues&theme=github_dark)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true&hide=contribs,prs,issues,stars&theme=github_dark)
 
-  
-  <!--
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
  
-{![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designegycreatives)](https://github.com/designegycreatives/github-readme-stats)
+
+ 
