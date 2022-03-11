@@ -11,39 +11,10 @@
 
   **Tableau** | **Power BI** | **Python Programming** | **R Programming** | **Open Office Calc** | **Rapid Miner Studio** | **MongoDB** | **Postgre SQL** | **Microsoft SQL Server** | **Excel**
   
-- 🔭 I’m currently working on: 
+- 📫 [Check My Portfolio](https://bit.ly/AnuoluwapoDS) 
 
-  **Data Science Projects**
-
-- 🌱 I’m currently learning:
-
-  **Data mining**
-  
-- 👯 I’m looking to collaborate on:
-
-  **Open Source Projects**
-  
-- 🤔 I’m looking for help with: 
-
-  **Data Science Projects**
-  
-- 💬 Ask me about:
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true&hide=contribs,prs,issues,stars&theme=github_dark) 
  
-  **Anything Data Related**
-  
-- 📫 How to reach me:
- 
-  https://bit.ly/AnuoluwapoDS
-  
-- 😄 Pronouns: 
-
-  **She**
-
-- ⚡ Fun fact:
-
-  **I love Learning**
-  
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true&hide=contribs,prs,issues,stars&theme=github_dark)
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designegycreatives&langs_count=8)](https://github.com/designegycreatives/designegycreatives)
 
  
