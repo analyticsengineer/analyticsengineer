@@ -1,4 +1,6 @@
-### Hello 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designegycreatives&repo=github-readme-stats)](https://github.com/designegycreatives/github-readme-stats)
+
+### Hello :wave:
 ### My Name is Anuoluwapo Balogun
 ### I am a Data Scientist | Data Analyst | Data Engineer
 
@@ -49,4 +51,3 @@
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designegycreatives&repo=github-readme-stats&show_owner&theme=github_dark)](https://github.com/Designegycreatives/github-readme-stats)
