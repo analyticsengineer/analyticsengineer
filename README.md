@@ -1,4 +1,6 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designegycreatives&repo=github-readme-stats)](https://github.com/designegycreatives/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Designegycreatives&repo=github-readme-stats&theme=github_dark)](
+https://github.com/designegycreatives/designegycreatives)
+
 
 ### Hello :wave:
 ### My Name is Anuoluwapo Balogun
@@ -51,3 +53,4 @@
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
+{![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designegycreatives)](https://github.com/designegycreatives/github-readme-stats)
