@@ -1,6 +1,4 @@
-### Hello :wave:
-### My Name is Anuoluwapo Balogun
-### I am a Data Scientist | Data Analyst | Data Engineer
+![github-header-image](https://user-images.githubusercontent.com/83256563/157996773-3d2c6747-a57f-4e49-abfb-8da013f33a7a.png)
 
 <!--
 **Designegycreatives/Designegycreatives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
