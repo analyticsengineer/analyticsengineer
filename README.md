@@ -9,6 +9,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true&hide=contribs,prs,issues,stars&theme=github_dark) 
 
  
+ ![](https://komarev.com/ghpvc/?username=Designegycreatives&color=grey&style=&style=for-the-badge)
+ 
 
  [![designegycreative's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=designegycreatives)](https://github.com/designegycreatives/designegycreatives)
 
