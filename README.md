@@ -4,11 +4,10 @@
 ![github-header-image](https://user-images.githubusercontent.com/83256563/157996773-3d2c6747-a57f-4e49-abfb-8da013f33a7a.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFBF9&lines=I+Love+Being+A+Data+Scientist;I+Love+Being+A+Data+Analyst;I+Love+Being+A+Data+Engineer)](https://git.io/typing-svg) 
-![](https://custom-icon-badges.herokuapp.com/github/followers/Designegycreatives?logo=person-add&style=social)   [![wakatime](https://wakatime.com/badge/user/991cbdb7-0863-4417-8e61-441d50ee4dfa.svg)](https://wakatime.com/@991cbdb7-0863-4417-8e61-441d50ee4dfa)
 ---
-
-
 ![](https://komarev.com/ghpvc/?username=Designegycreatives&color=grey&style=&style=for-the-badge) 
+
+![](https://custom-icon-badges.herokuapp.com/github/followers/Designegycreatives?logo=person-add&style=social)   [![wakatime](https://wakatime.com/badge/user/991cbdb7-0863-4417-8e61-441d50ee4dfa.svg)](https://wakatime.com/@991cbdb7-0863-4417-8e61-441d50ee4dfa)
 ---
 
 <details>
