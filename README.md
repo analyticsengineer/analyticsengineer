@@ -4,7 +4,9 @@
 ![github-header-image](https://user-images.githubusercontent.com/83256563/157996773-3d2c6747-a57f-4e49-abfb-8da013f33a7a.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFBF9&lines=I+Love+Being+A+Data+Scientist;I+Love+Being+A+Data+Analyst;I+Love+Being+A+Data+Engineer)](https://git.io/typing-svg) 
-![](https://custom-icon-badges.herokuapp.com/github/followers/Designegycreatives?logo=person-add&style=social)
+![](https://custom-icon-badges.herokuapp.com/github/followers/Designegycreatives?logo=person-add&style=social)  
+---
+
 
 ![](https://komarev.com/ghpvc/?username=Designegycreatives&color=grey&style=&style=for-the-badge) 
 ---
@@ -12,18 +14,16 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=designegycreatives&show_icons=true&hide=contribs,prs,issues,stars&theme=github_dark) 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Designegycreatives&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Designegycreatives&theme=dark)](https://git.io/streak-stats)       
  
-[![designegycreative's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=designegycreatives)](https://github.com/designegycreatives/designegycreatives)
+ [![designegycreative's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=designegycreatives)](https://github.com/designegycreatives/designegycreatives)
 ---
 
-<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="400" alt="Ifeoluwapo Balogun's Dev Card"/></a>
+<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="400" alt="Ifeoluwapo Balogun's Dev Card"/></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designegycreatives&langs_count=8)](https://github.com/designegycreatives/designegycreatives)
+
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designegycreatives&langs_count=8)](https://github.com/designegycreatives/designegycreatives)
----
 
 
 
