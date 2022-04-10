@@ -20,7 +20,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Designegycreatives&theme=dark)](https://git.io/streak-stats)  [![designegycreative's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=designegycreatives)](https://github.com/designegycreatives/designegycreatives)
 
 
-<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="400" alt="Ifeoluwapo Balogun's Dev Card"/></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designegycreatives&langs_count=8)](https://github.com/designegycreatives/designegycreatives)
+<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="400" alt="Ifeoluwapo Balogun's Dev Card"/></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designegycreatives&langs_count=8)](https://github.com/designegycreatives/designegycreatives)  <figure><img src="https://wakatime.com/share/@designegycreatives/d9428013-e4cc-486b-9541-005fb2006ece.svg" width="400"></embed></figure>
 </details>
 
 
