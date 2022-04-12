@@ -24,7 +24,7 @@
  
 
 <details>
-<summary>View My My Tech Tool Stacks</summary>
+<summary>View My Tech Tool Stacks</summary>
 <br>
  
 ![](https://img.shields.io/pypi/wheel/3?logo=python&style=social) ![](https://img.shields.io/pypi/wheel/3?logo=R&style=social) ![](https://img.shields.io/pypi/wheel/3?logo=powerbi&style=social) ![](https://img.shields.io/pypi/wheel/3?logo=MongoDB&style=social) ![](https://img.shields.io/pypi/wheel/3?logo=Microsoft%20Sql%20Server&style=social) ![](https://img.shields.io/pypi/wheel/3?logo=postgresql&style=social)
