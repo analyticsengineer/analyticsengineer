@@ -36,14 +36,6 @@
 </details>
 
 ---
-<details>
-<summary>Work With Me</summary>
-<br>
-
- <a href="https://bit.ly/AnuoluwapoDS"><img src="https://user-images.githubusercontent.com/83256563/162648103-1bc2bf0f-9435-45d6-88aa-dcf4da5efccb.png?r=ftp" width="20" alt="Ifeoluwapo Balogun's Dev Card"/></a>  <a href="https://msha.ke/designegycreatives"><img src="https://user-images.githubusercontent.com/83256563/162648148-6330f1ce-acdb-4794-8e39-e14c277b89b9.png?r=ftp" width="20" alt="Ifeoluwapo Balogun's Dev Card"/></a>  
-</details>
-
-<details>
 <summary>My Blog Posts</summary>
  <br>
  
