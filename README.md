@@ -8,8 +8,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=Designegycreatives&color=grey&style=&style=for-the-badge) 
 
-![](https://custom-icon-badges.herokuapp.com/github/followers/Designegycreatives?logo=person-add&style=social)   [![wakatime](https://wakatime.com/badge/user/991cbdb7-0863-4417-8e61-441d50ee4dfa.svg)](https://wakatime.com/@991cbdb7-0863-4417-8e61-441d50ee4dfa)
----
+![](https://custom-icon-badges.herokuapp.com/github/followers/anuoluwapods?logo=person-add&style=social)   
 
 <details>
 <summary>Github Details</summary>
