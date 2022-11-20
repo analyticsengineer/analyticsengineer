@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary>View My Github Details</summary>
+<summary>Github Details</summary>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuoluwapods&show_icons=true&hide=contribs,prs,issues,stars&theme=github_dark) 
