@@ -19,7 +19,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuoluwapods&theme=dark)](https://git.io/streak-stats) 
 
-<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="200" alt="Ifeoluwapo Balogun's Dev Card"/></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuoluwapods&langs_count=8)](https://github.com/designegycreatives/designegycreatives)
+<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="200" alt="Ifeoluwapo Balogun's Dev Card"/></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuoluwapods&langs_count=8)](https://github.com/anuoluwapods/anuoluwapods)
  
 ![Snake Animation](https://github.com/anuoluwapods/anuoluwapods/blob/output/github-contribution-grid-snake.svg)
 
