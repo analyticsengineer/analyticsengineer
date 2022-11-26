@@ -41,6 +41,6 @@
 
 <a href="https://github.com/anuoluwapods/convoychat">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuoluwapods&repo=convoychat" />
+  <img align="center" src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" />
 
 </a>
