@@ -14,7 +14,7 @@
 <summary>Github Details</summary>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuoluwapods&show_icons=true&hide=contribs,prs,issues,stars&theme=github_dark) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuoluwapods&show_icons=true&contribs,prs,issues,stars&theme=github_dark) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuoluwapods&theme=dark)](https://git.io/streak-stats) 
 
