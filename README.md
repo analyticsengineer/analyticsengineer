@@ -31,3 +31,14 @@
  <a href="https://anuoluwapods.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://designegycreatives.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/designegycreatives"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
 
 
+<a href="https://github.com/anuoluwapods/github-readme-stats">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuoluwapods&repo=github-readme-stats" />
+
+</a>
+
+<a href="https://github.com/anuoluwapods/convoychat">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuoluwapods&repo=convoychat" />
+
+</a>
