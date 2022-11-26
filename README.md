@@ -18,7 +18,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuoluwapods&theme=dark)](https://git.io/streak-stats) 
 
-<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="200" alt="Ifeoluwapo Balogun's Dev Card"/></a>      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuoluwapods&langs_count=8&layout=compact)](https://github.com/anuoluwapods/anuoluwapods)
+<a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="200" alt="Ifeoluwapo Balogun's Dev Card"/></a>      
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuoluwapods&langs_count=8&layout=compact)](https://github.com/anuoluwapods/anuoluwapods)
  
 ![Snake Animation](https://github.com/anuoluwapods/anuoluwapods/blob/output/github-contribution-grid-snake.svg)
 
@@ -31,9 +33,9 @@
  <a href="https://anuoluwapods.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://designegycreatives.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/designegycreatives"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
 
 
-<a href="https://github.com/anuoluwapods/github-readme-stats">
+<a href="https://github.com/anuoluwapods/anuoluwapods">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuoluwapods&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuoluwapods&langs_count=8&layout=compact" />
 
 </a>
 
