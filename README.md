@@ -14,10 +14,6 @@
 <summary>Github Details</summary>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuoluwapods&show_icons=true&contribs,prs,issues,stars&theme=transparent) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuoluwapods&theme=dark)](https://git.io/streak-stats) 
-
 <a href="https://app.daily.dev/AnuoluwapoDS"><img src="https://api.daily.dev/devcards/66b121ec97104ebbb943101ab5fa2fda.png?r=ftp" width="200" alt="Ifeoluwapo Balogun's Dev Card"/></a>      
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuoluwapods&langs_count=8&layout=compact)](https://github.com/anuoluwapods/anuoluwapods)
