@@ -3,8 +3,11 @@
 -->
 
 <div style="text-align:center">
-    <img src="https://github.com/anuoluwapods/anuoluwapods/assets/83256563/0442f190-a664-4d1e-a297-2d536e43e72d" alt="Github">
+    <img src="https://github.com/anuoluwapods/anuoluwapods/assets/83256563/f3927ed0-73fa-4099-8937-5bda152bbd24" alt="Github">
 </div>
+
+
+
 
 <div style="text-align:center">
     <img src="https://github.com/anuoluwapods/anuoluwapods/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
