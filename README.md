@@ -11,7 +11,7 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/anuoluwapoae/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-instagram-URL">
@@ -20,16 +20,15 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="your-medium-URL">
+  <a href="your-medium-URL">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-    </a>
-    <a href="your-hasnode-URL">
-    <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  <a href="your-hashnode-URL">
+    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
-    </a>
-    <a href="your-jovian-URL">
-    <img src="https://img.shields.io/badge/jovian-blue?style=for-the-badge&logo=jovian&logoColor=white" alt="Jovian Badge"/>
+  <a href="your-jovian-URL">
+    <img src="https://img.shields.io/badge/Jovian-blue?style=for-the-badge&logo=jovian&logoColor=white" alt="Jovian Badge"/>
   </a>
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=anuoluwapods&style=flat-square&color=blue" alt=""/>
