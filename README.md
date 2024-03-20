@@ -2,10 +2,14 @@
 **This is my GitHub Page**
 -->
 
-![Github](https://github.com/anuoluwapods/anuoluwapods/assets/83256563/0442f190-a664-4d1e-a297-2d536e43e72d)
+<div style="text-align:center">
+    <img src="https://github.com/anuoluwapods/anuoluwapods/assets/83256563/0442f190-a664-4d1e-a297-2d536e43e72d" alt="Github">
+</div>
 
 
-![Snake Animation](https://github.com/anuoluwapods/anuoluwapods/blob/output/github-contribution-grid-snake.svg)
+<div style="text-align:center">
+    <img src="https://github.com/anuoluwapods/anuoluwapods/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</div>
 
 
 
