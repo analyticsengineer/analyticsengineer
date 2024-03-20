@@ -32,3 +32,4 @@
     <img src="https://img.shields.io/badge/jovian-blue?style=for-the-badge&logo=jovian&logoColor=white" alt="Jovian Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=anuoluwapods&style=flat-square&color=blue" alt=""/>
