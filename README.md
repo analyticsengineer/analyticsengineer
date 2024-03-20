@@ -2,11 +2,7 @@
 **This is my GitHub Page**
 -->
 
-<div style="text-align:center">
-    <img src="https://github.com/anuoluwapods/anuoluwapods/assets/83256563/f3927ed0-73fa-4099-8937-5bda152bbd24" alt="Github">
-</div>
-
-
+![Github](https://github.com/anuoluwapods/anuoluwapods/assets/83256563/ab54a29d-5605-4dd1-b076-11c3cb09fb1a)
 
 
 <div style="text-align:center">
