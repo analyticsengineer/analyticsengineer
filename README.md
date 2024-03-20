@@ -36,3 +36,5 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=anuoluwapods&style=flat-square&color=blue" alt=""/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuoluwapods&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
