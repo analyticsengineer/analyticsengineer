@@ -1,7 +1,11 @@
 <!--
-**Designegycreatives/Designegycreatives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is my GitHub Page**
 -->
-![Github Header](https://user-images.githubusercontent.com/83256563/202926414-0fb5d229-e242-4de4-9f8b-9129729c927e.png)
+
+![Github](https://github.com/anuoluwapods/anuoluwapods/assets/83256563/0442f190-a664-4d1e-a297-2d536e43e72d)
+
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFBF9&lines=I+Love+Being+A+Data+Scientist;I+Love+Being+A+Data+Analyst;I+Love+Being+A+Data+Engineer)](https://git.io/typing-svg) 
