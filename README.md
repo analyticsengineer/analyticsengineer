@@ -32,10 +32,7 @@ Design:        Canva, Figma
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=analyticsengineer&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticsengineer&theme=radical" alt="GitHub Streak" width="49%" /> </p>
 
 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --> <!-- Replace this section with GitHub Action auto-feed later -->
-Medium:     https://medium.com/feed/@anuoluwapoae
-Dev.to:     https://dev.to/feed/anuoluwapoae
-Hashnode:   https://pinkdatahub.hashnode.dev/rss
+<!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
