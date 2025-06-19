@@ -38,3 +38,6 @@ Design:        Canva, Figma
 💻 Certifications & Highlights
 - Data analyst certified
 - Google Data Analytics
+---
+🌟 Favorite Quote
+"Data is not just numbers; it's the voice of the customer — if you're willing to listen."
