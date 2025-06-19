@@ -29,8 +29,6 @@ Analysis:      Pandas, NumPy, Jupyter Notebooks
 Design:        Canva, Figma
 ```
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=analyticsengineer&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticsengineer&theme=radical" alt="GitHub Streak" width="49%" /> </p>
-
 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
@@ -40,7 +38,3 @@ Design:        Canva, Figma
 💻 Certifications & Highlights
 - Data analyst certified
 - Google Data Analytics
----
-### ✅ GitHub Stats Cards Setup
-Use this site to customize the cards if needed:  
-🔗 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analyticengineer&size_weight=0.5&count_weight=0.5)
