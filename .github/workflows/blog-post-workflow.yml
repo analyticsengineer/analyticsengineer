@@ -1,0 +1,23 @@
+name: Update README with Blog Posts
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Runs daily at 7 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update blog list
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Blog post workflow
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 5
+          feed_list: |
+            https://medium.com/feed/@anuoluwapoae
+            https://dev.to/feed/anuoluwapoae
+            https://pinkdatahub.hashnode.dev/rss
