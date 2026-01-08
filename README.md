@@ -2,9 +2,9 @@
 <h3 align="center">Data Analyst | Analytics Engineer</h3>
 
 <p align="center">
-  🚀 I transform messy operational and marketing data into trusted insights teams can act on.<br>
-  🎯 I enable better decisions by modeling, analyzing, and activating ops and marketing data.
-  📢 I build reliable data models and analyze operational and marketing performance to drive revenue growth.
+  🚀 I transform messy operational and marketing data into trusted insights teams can act on. <br>
+  🎯 I enable better decisions by modeling, analyzing, and activating operations and marketing data. <br>
+  📢 I build reliable data models and analyze operational and marketing performance to drive revenue growth. <br>
 </p>
 
 ---
