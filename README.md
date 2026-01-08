@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi, I'm Anuoluwapo</h1>
-<h3 align="center">Data Analyst | Data Storyteller | Visualization Enthusiast</h3>
+<h3 align="center">Data Analyst | Analytics Engineer</h3>
 
 <p align="center">
-  🚀 Turning data into compelling stories that drive business decisions.<br>
-  🎯 Focused on actionable insights, dashboard design, and clear communication.
+  🚀 I transform messy operational and marketing data into trusted insights teams can act on.<br>
+  🎯 I enable better decisions by modeling, analyzing, and activating ops and marketing data.
+  📢 I build reliable data models and analyze operational and marketing performance to drive revenue growth.
 </p>
 
 ---
@@ -11,10 +12,9 @@
 ### 🧑‍💻 About Me
 
 - 📍 Based in Lagos, Nigeria 🇳🇬  
-- 💡 I specialize in **Python**, **SQL**, **Power BI**, **Tableau**, and **data storytelling**
-- 📊 Experienced in creating impactful dashboards and analytical reports  
-- 🧠 Passionate about **problem-solving**, **data cleaning**, and **presenting insights with clarity**
-- 🎨 I design intuitive visuals because **design is half the story**
+- 💡 I specialize in **Python**, **dbt**, **Spark SQL**, **Azure Synapse**, and **Microsoft Fabric**
+- 📊 Experienced in enabling better decisions by modeling, analyzing, and activating operations and marketing data. 
+- 🧠 Passionate about analyzing how businesses run and how customers convert then optimize both.
 - 📚 Always learning new tools — and yes, dancing too 💃
 
 ---
@@ -22,9 +22,9 @@
 ### ⚙️ Tech Stack
 
 ```yaml
-Languages:     Python, SQL, DAX
-Visualization: Power BI, Tableau
-Data Tools:    Excel, PostgreSQL, BigQuery
+Languages:     Python, Spark SQL, DBT
+Visualization: Power BI, Tableau, Metabase, Looker studio
+Data Tools:    Excel, PostgreSQL, BigQuery, Microsoft Fabric, Azure Synapse
 Analysis:      Pandas, NumPy, Jupyter Notebooks
 Design:        Canva, Figma
 ```
